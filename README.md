@@ -47,7 +47,7 @@ OfadaExpress-UI/
 
 ## 📸 Screenshots
 
-*(Add screenshots of your landing page if you want later.)*
+images/OfadaExpress-LandingPage.jpeg
 
 ## 🧠 Inspiration
 
