@@ -2,6 +2,7 @@
 
 **OfadaExpress-UI** is a sleek and vibrant **Food Delivery** frontend design, created to showcase a clean, professional ordering experience for Ofada rice lovers and beyond.  
 Built with ❤️ by **OMA** and **ChatGPT**.
+🔗 Live Demo:  https://isbara89.github.io/Food-Delivery-UI/
 
 ## 🌟 Project Highlights
 
