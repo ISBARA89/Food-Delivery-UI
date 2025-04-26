@@ -47,7 +47,8 @@ OfadaExpress-UI/
 
 ## 📸 Screenshots
 
-images/OfadaExpress-LandingPage.jpeg
+![OfadaExpressLP](https://github.com/user-attachments/assets/7bbda8d8-a523-4a37-a738-d182a50cb224)
+
 
 ## 🧠 Inspiration
 
